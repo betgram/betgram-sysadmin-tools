@@ -1,3 +1,9 @@
+# betgram-sysadmin-tools
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+A collection of programs and ideas for system administration. Useful utilities for any developers team
+
 ## TODO
 
 + A search engine, information retrieval, information handling and classification system for the papers and articles. To receive a query, to classify and manage PDF files and retrieve relevant data related to the search query and out results.
